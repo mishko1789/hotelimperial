@@ -1,0 +1,11 @@
+.image{
+    position: absolute;
+    top:270px;
+    left: 600px;
+    border-radius: 30px;
+    border: 1px solid;
+}
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
